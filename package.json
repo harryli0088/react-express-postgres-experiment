@@ -1,5 +1,5 @@
 {
-  "name": "express-postgres-experiment",
+  "name": "react-express-postgres-experiment",
   "version": "1.0.0",
   "scripts": {
     "client": "cd client && npm start",

@@ -2,18 +2,20 @@
 
 Installing stuff for the first time
 
-    npm install -g nodemon
+    npm install
+
+    cd server
 
     npm install
 
-    cd client
+    cd ../client
 
     npm install
 
 
 Start development (after installing everything)
 
-    npm run dev
+    npm start
 
 
 
